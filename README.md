@@ -275,8 +275,8 @@ open_to:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOHANAPRIYANP16&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANAPRIYANP16&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=c4b5fd" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MOHANAPRIYANP16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOHANAPRIYANP16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=c4b5fd" />
 
 <br/>
 
@@ -286,15 +286,6 @@ open_to:
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MOHANAPRIYANP16&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## Contribution Activity
 
